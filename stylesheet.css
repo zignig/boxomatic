@@ -1,0 +1,15 @@
+div{margin-left: 10px;padding: 1px;background-color:#FFFFFF;font:small;}
+table{padding: 0px;background-color:#F0F0F0;font:small;}
+#banner{padding: 10px;}
+#main{background-color:#FFFFFF;float:left;}
+#detail{float:left;width:*;}
+#remain{background-color:#FFFFFF;border:1px solid;}
+#header{background-color:#FFFFFF;}
+#warn{background-color:#FF0;}
+#error{background-color:#F00;}
+#done{color:#00FF00;background-color:#00FF00;border:1px solid;}
+#icon{padding:2px;float:left;border:thin silver solid;margin:2px;}
+img#icon{padding:2px;border:thin silver solid;margin:2px;}
+#break{clear:both;}
+body{ background: #FFF; color: #333; font: 15/1.4em Verdana, Arial, Helvetica, sans-serif; text-align: left; }
+td{font: 14px/1.4em Verdana, Arial, Helvetica, sans-serif; text-align: left; }
